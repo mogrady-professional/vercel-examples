@@ -1,0 +1,126 @@
+<!-- ======= Request Quote Section ======= -->
+<section id="contact" class="contact">
+    <div class="container">
+        <div class="section-title">
+            <h2>Request Quote</h2>
+            <p>Request a Quote</p>
+        </div>
+        <div class="form-progress">
+            <div class="fill start green" style="opacity: 1">
+                <div style="width: 0%"></div>
+            </div>
+            <div class="stats start" style="opacity: 1"><span>0</span> %</div>
+        </div>
+        <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
+            <div class="form-row">
+                <div class="col-md-3 form-group">
+                    <input type="text" name="company" class="form-control" id="company" placeholder="Company" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required />
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <input type="text" name="company" class="form-control" id="website" placeholder="Website" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required />
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <select id="input-employees" class="form-control">
+            <option selected>Employees</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2 - 10">2 - 10</option>
+            <option value="11 - 20">11 - 20</option>
+            <option value="21+">21+</option>
+          </select>
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <select id="input-locations" class="form-control">
+            <option selected>Locations</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2 - 10">2 - 10</option>
+            <option value="11 - 20">11 - 20</option>
+            <option value="21+">21+</option>
+          </select>
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6 form-group">
+                    <select id="input-interested" class="form-control">
+            <option selected>Interested In</option>
+            <option value="UI / UX Design &amp; Strategy">
+              UI / UX Design &amp; Strategy
+            </option>
+            <option value="Website Development">Website Development</option>
+            <option value="Online Marketing SEO / SEM / PPC">
+              Online Marketing SEO / SEM / PPC
+            </option>
+            <option value="Brand Identity Creation">
+              Brand Identity Creation
+            </option>
+            <option value="Business Systems &amp; Procedures">
+              Business Systems &amp; Procedures
+            </option>
+            <option value="Other / Not sure">Other / Not sure</option>
+          </select>
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-6 form-group">
+                    <select id="input-timeline" class="form-control">
+            <option selected>Timeline</option>
+            <option value="Within 90 Days">Within 90 Days</option>
+            <option value="3 - 6 Months">3 - 6 Months</option>
+            <option value="6 - 12 Months">6 - 12 Months</option>
+            <option value="Other / Not sure">Other / Not sure</option>
+          </select>
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6 form-group">
+                    <textarea class="form-control" name="your-competitors" rows="3" data-rule="required" data-msg="Please write a message for me" placeholder="List industry leaders and competitors" required></textarea>
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-6 form-group">
+                    <textarea class="form-control" name="your-inspiration" rows="3" data-rule="required" data-msg="Please write a message for me" placeholder="Showcase features and the look and feel you like" required></textarea>
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6 form-group">
+                    <textarea class="form-control" name="project" rows="3" data-rule="required" data-msg="Please write a message for me" placeholder="What are your greatest challenges?" required></textarea>
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-6 form-group">
+                    <textarea class="form-control" name="goals" rows="3" data-rule="required" data-msg="Please write a message for me" placeholder="What is the best-case scenario?" required></textarea>
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-3 form-group">
+                    <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required="" />
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <input type="text" name="lname" class="form-control" id="lname" placeholder="Last Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required="" />
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" required="" />
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-3 form-group">
+                    <input type="text" name="phone" class="form-control" id="phone" placeholder="Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required="" />
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="loading">Loading</div>
+                <div class="error-message">Error</div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+        </form>
+    </div>
+</section>
+<!-- ======= End Request Quote Section ======= -->

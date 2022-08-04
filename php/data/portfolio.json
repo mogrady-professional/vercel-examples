@@ -1,0 +1,2080 @@
+{
+    "portfolio": {
+        "categories": [
+            "front-end",
+            "back-end",
+            "full-stack",
+            "wordpress-cms",
+            "mobile",
+            "desktop"
+        ],
+        "devicons": [
+            "devicon-html5-plain-wordmark colored",
+            "devicon-css3-plain-wordmark colored",
+            "devicon-javascript-plain colored",
+            "devicon-jquery-plain-wordmark colored",
+            "devicon-react-original-wordmark colored",
+            "devicon-nodejs-plain-wordmark colored",
+            "devicon-mongodb-plain-wordmark colored",
+            "devicon-mysql-plain-wordmark colored",
+            "devicon-postgresql-plain-wordmark colored",
+            "devicon-php-plain-wordmark colored",
+            "devicon-python-plain-wordmark colored",
+            "devicon-ruby-plain-wordmark colored",
+            "devicon-sass-original-wordmark colored",
+            "devicon-bootstrap-plain-wordmark colored",
+            "devicon-wordpress-plain-wordmark colored",
+            "devicon-git-plain-wordmark colored",
+            "devicon-github-plain-wordmark colored",
+            "devicon-visualstudio-plain-wordmark colored",
+            "reference-link -> https://devicon.dev/"
+        ],
+        "projects": [{
+                "id": "1",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/mogsc/400px/mogsc.jpg",
+                "alt": "Personal Training Website for Mogsc",
+                "title": "Personal Training Website",
+                "subtitle": "HTML5 | CSS3 | JavaScript | jQuery <br>Multi-Page Responsive Website",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-jquery-plain-wordmark colored",
+                    "icon5_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/mogsc/5000px/mogsc.jpg",
+                    "data_title": "MOGSC Multi-Page Responsive Website - HTML | CSS | JavaScript",
+                    "project_link": "https://mogsc-version-3.herokuapp.com/",
+                    "github_link": "",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "2",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/breakout/400px/breakout.jpg",
+                "alt": "JavaScript Breakout Game",
+                "title": "Breakout Game",
+                "subtitle": "JavaScript Game",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/breakout/5000px/breakout.jpg",
+                    "data_title": "Javascript Project — Breakout Game",
+                    "project_link": "https://mogrady-personal.github.io/Javascript-Breakout-Game/",
+                    "github_link": "https://github.com/mogrady-personal/Javascript-Breakout-Game",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "3",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/proshop/400px/proshop.jpg",
+                "alt": "ProShop - Online Ecommerce Website",
+                "title": "Online Ecommerce Website",
+                "subtitle": "Full CMS Backend &amp; PayPal API Integration",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-django-plain-wordmark colored",
+                    "icon5_class": "devicon-postgresql-plain-wordmark colored",
+                    "icon6_class": "devicon-react-original-wordmark colored",
+                    "icon7_class": "devicon-redux-plain-wordmark colored",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/proshop/5000px/proshop.jpg",
+                    "data_title": "ProShop - Online Ecommerce Website",
+                    "project_link": "https://proshop-aws-heroku.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/ProShop-RRDP-Ecommerce",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "4",
+                "category": "mobile",
+                "img": "../assets/images/portfolio/projects/mobile/ionic-weather-app/400px/ionic-weather.jpg",
+                "alt": "Weather &amp; News App - Angular 5 | Ionic 3",
+                "title": "Weather &amp; News App",
+                "subtitle": "Developed using Ionic 3 &amp; Angular 5",
+                "devicon_icons": {
+                    "icon1_class": "devicon-angularjs-plain colored",
+                    "icon2_class": "devicon-ionic-original colored",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/mobile/ionic-weather-app/5000px/ionic-weather.jpg",
+                    "data_title": "Weather &amp; News App - Angular 5 | Ionic 3",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/weather-app-ionic3-angular-v2",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "5",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/education-erp/400px/education-erp.jpg",
+                "alt": " Education ERP - Laravel 8",
+                "title": "School Management System",
+                "subtitle": "PHP | LARAVEL 8 | MYSQL<br>Education ERP built on Laravel 8",
+                "devicon_icons": {
+                    "icon1_class": "devicon-javascript-plain colored",
+                    "icon2_class": "devicon-laravel-plain-wordmark colored",
+                    "icon3_class": "devicon-mysql-plain-wordmark colored",
+                    "icon4_class": "devicon-php-plain colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/education-erp/5000px/education-erp.jpg",
+                    "data_title": "Education ERP System - Laravel 8",
+                    "project_link": "https://education-erp.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/Education-ERP-Laravel-8",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "6",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/connaught-properties/400px/connaught-properties.jpg",
+                "alt": "Property Management System in React 18",
+                "title": "Connaught Properties.ie<br> Property Management System",
+                "subtitle": "Full Stack App with Mobile First Design<br> React 18 | Redux | Firebase | Material UI | NodeJS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-react-origonal-wordmark colored",
+                    "icon5_class": "devicon-redux-plain-wordmark colored",
+                    "icon6_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon7_class": "devicon-googlecloud-plain colored",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/connaught-properties/5000px/connaught-properties.jpg",
+                    "data_title": "Connaught Properties - Property Management System in React 18",
+                    "project_link": "https://www.connaughtproperties.ie/",
+                    "github_link": "https://github.com/mogrady-professional/connaughtproperties",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "7",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/devsearch/400px/devsearch.jpg",
+                "alt": "",
+                "title": "DevSearch.ie<br> Career and Portfolio Search Engine",
+                "subtitle": "Python | Django | PostgreSQL<br>Developers IT Contractors and Freelancers",
+                "devicon_icons": {
+                    "icon1_class": "devicon-python-plain-wordmark colored",
+                    "icon2_class": "devicon-django-plain-wordmark colored",
+                    "icon3_class": "devicon-postgresql-plain-wordmark colored",
+                    "icon4_class": "devicon-amazonwebservices-original colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/devsearch/5000px/devsearch.jpg",
+                    "data_title": "DevSearch.ie - Career and Portfolio Search Engine",
+                    "project_link": "https://devsearch-heroku.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/DevSearch-AWS",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "8",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/rasalina/400px/rasalina.jpg",
+                "alt": "Laravel 9 Content Management System",
+                "title": "Rasalina Portfolio CMS",
+                "subtitle": "PHP | Laravel 9 | MySQL<br>Content Management System",
+                "devicon_icons": {
+                    "icon1_class": "devicon-laravel-plain-wordmark colored",
+                    "icon2_class": "devicon-mysql-plain-wordmark colored",
+                    "icon3_class": "devicon-php-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/rasalina/5000px/rasalina.jpg",
+                    "data_title": "Laravel 9 CMS with backend Content Management System",
+                    "project_link": "https://arcane-waters-88789.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/Rasalina-CMS-Laravel",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "9",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/club-manager/400px/club-manager.jpg",
+                "alt": "Club Manager - GAA Club Management System",
+                "title": "Club Manager - GAA Club Management System",
+                "subtitle": "Social Media CMS &amp; Chat Application for players and managers.",
+                "devicon_icons": {
+                    "icon1_class": "devicon-javascript-plain colored",
+                    "icon2_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon3_class": "devicon-express-original colored",
+                    "icon4_class": "devicon-mongodb-plain-wordmark colored",
+                    "icon5_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/club-manager/5000px/club-manager.jpg",
+                    "data_title": "Club Manager - GAA Club Management System",
+                    "project_link": "https://club-manager-chat.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/club-manager-chat",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "10",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/booktec/400px/booktec.jpg",
+                "alt": "C# ASP.NET 6 Bookstore Application",
+                "title": "Booktec Bookstore",
+                "subtitle": "C# | ASP.NET 6 | SQL Server<br>Bookstore E-Commerce Application",
+                "devicon_icons": {
+                    "icon1_class": "devicon-dot-net-plain colored",
+                    "icon2_class": "devicon-csharp-plain colored",
+                    "icon3_class": "devicon-microsoftsqlserver-plain colored",
+                    "icon4_class": "devicon-azure-plain-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/booktec/5000px/booktec.jpg",
+                    "data_title": "C# ASP.NET 6 Bookstore Application",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/booktec-aspdotnet6",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "11",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/github-finder/400px/github-finder.jpg",
+                "alt": "",
+                "title": "GitHub Finder Application",
+                "subtitle": "React Aplication using the GitHub REST API<br>ReactJS | Redux | React Router | Axios | Bootstrap",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original colored",
+                    "icon2_class": "devicon-redux-original colored",
+                    "icon3_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon4_class": "devicon-github-original-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/github-finder/5000px/github-finder.jpg",
+                    "data_title": " GitHub Finder Application in React 16",
+                    "project_link": "https://github-finder-react-16.vercel.app/",
+                    "github_link": "https://github.com/mogrady-professional/GitHub-Finder-React-16",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "12",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/support-desk-system/400px/support-desk-system.jpg",
+                "alt": "Support Desk Ticket Management Application",
+                "title": "Support Desk Ticket Management Application",
+                "subtitle": "Full Stack Application in React 18 with Node Express &amp; MongoDB Backend &amp; Database",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original colored",
+                    "icon2_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon3_class": "devicon-express-original colored",
+                    "icon4_class": "devicon-mongodb-plain-wordmark colored",
+                    "icon5_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/support-desk-system/5000px/support-desk-system.jpg",
+                    "data_title": "",
+                    "project_link": "https://support-desk-system.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/support-desk",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "13",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/doughbros/400px/doughbros.jpg",
+                "alt": "Dough Bros Online Order &amp; Management System",
+                "title": "The Dough Bros",
+                "subtitle": "C# | ASP.NET MVC | SQL Server | Azure | PowerApps<br>Online Food Order &amp; Management System",
+                "devicon_icons": {
+                    "icon1_class": "devicon-dot-net-plain colored",
+                    "icon2_class": "devicon-csharp-plain colored",
+                    "icon3_class": "devicon-microsoftsqlserver-plain colored",
+                    "icon4_class": "devicon-azure-plain-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": "bx bx-detail"
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/doughbros/5000px/doughbros.jpg",
+                    "data_title": "Dough Bros — Online Order &amp; Management System",
+                    "project_link": "http://doughbros.azurewebsites.net/",
+                    "github_link": "https://github.com/mogrady-professional/Information-Systems-Development",
+                    "local_project_detail_link": "#doughbros"
+                }
+            },
+            {
+                "id": "14",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/warehousegym/400px/warehousegym.jpg",
+                "alt": "",
+                "title": "Gym Management System",
+                "subtitle": "C# | ASP.NET MVC | SQL Server | Azure | PowerApps<br>Cloud Migration to Azure ",
+                "devicon_icons": {
+                    "icon1_class": "devicon-dot-net-plain colored",
+                    "icon2_class": "devicon-csharp-plain colored",
+                    "icon3_class": "devicon-microsoftsqlserver-plain colored",
+                    "icon4_class": "devicon-azure-plain-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": "bx bx-detail"
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/warehousegym/5000px/warehousegym.jpg",
+                    "data_title": "Warehouse Gym — Gym Management System",
+                    "project_link": "https://warehousegym.azurewebsites.net/",
+                    "github_link": "https://github.com/mogrady-professional/Information-Systems-Development",
+                    "local_project_detail_link": "#warehousegym"
+                }
+            },
+            {
+                "id": "15",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/tic-tac-toe/400px/tic-tac-toe.jpg",
+                "alt": "TicTacToe Game in Java",
+                "title": "Executable application for Windows/Mac OS",
+                "subtitle": "Java<br>Simple Game in Java",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/tic-tac-toe/5000px/tic-tac-toe.jpg",
+                    "data_title": "TicTacToe Game built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-TicTacToe-Desktop-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "16",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/notepad/5000px/notepad.jpg",
+                "alt": "Notepad Application in Java",
+                "title": "Notepad Application in Java",
+                "subtitle": "Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/notepad/5000px/notepad.jpg",
+                    "data_title": "Notepad Application built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-Desktop-Notepad-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "17",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/quiz-app/400px/quiz-app.jpg",
+                "alt": "Quiz Application in Java",
+                "title": "Quiz Application in Java",
+                "subtitle": "Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/quiz-app/5000px/quiz-app.jpg",
+                    "data_title": "Quiz Application built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-Quiz-Desktop-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "18",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/java-pong/400px/pong.jpg",
+                "alt": "Pong Game in Java",
+                "title": "Pong Game in Java",
+                "subtitle": "Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/java-pong/5000px/pong.jpg",
+                    "data_title": "Pong Game built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-Pong-Desktop-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "19",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/snake/400px/snake.jpg",
+                "alt": "Snake Game in Java",
+                "title": "Snake Game in Java",
+                "subtitle": "Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/snake/5000px/snake.jpg",
+                    "data_title": "Snake Game built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-Snake-Desktop-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "20",
+                "category": "wordpress-cms",
+                "img": "../assets/images/portfolio/projects/wordpress-cms/codec/400px/codec.jpg",
+                "alt": "Dynamic Wordpress Website",
+                "title": "Dynamic Wordpress Website",
+                "subtitle": "WordPress | WooCommerce MailChimp <br>E-Commerce & amp; Blogging CMS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-wordpress-plain-wordmark",
+                    "icon2_class": "devicon-mysql-plain-wordmarl",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "",
+                    "icon4_link_to_local_project_details": "bx bx-detail"
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/wordpress-cms/codec/5000px/codec.jpg",
+                    "data_title": "Codec Ireland Dynamic WordPress Website Clone",
+                    "project_link": "http://michaelogrady.x10host.com/codec/",
+                    "github_link": "",
+                    "local_project_detail_link": "#codec"
+                }
+            },
+            {
+                "id": "21",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/caesar-cipher/400px/caesar-cipher.jpg",
+                "alt": "Caesar Cipher in Java",
+                "title": "Caesar Cipher in Java",
+                "subtitle": "Encryption/Decryption Algorithm<br>Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/caesar-cipher/5000px/caesar-cipher.jpg",
+                    "data_title": "Caesar Cipher Encryption/Decription Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Java-Cipher-Encryption-Console-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "22",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/student-manager/400px/student-manager.jpg",
+                "alt": "Student Manager Database System in Java",
+                "title": "Student Manager",
+                "subtitle": "Local Database Application<br>Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/student-manager/5000px/student-manager.jpg",
+                    "data_title": "Student Manager Database System — Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Student-Manager",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "23",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/sorting-algorithm-benchmarker/400px/sorting-algorithm-benchmarker.jpg",
+                "alt": "Sorting Algorithm Benchmarker in Java",
+                "title": "Sorting Algorithm Benchmarker",
+                "subtitle": "Executable application for Windows/Mac OS<br>to Benchmark Sorting Algorithms",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/sorting-algorithm-benchmarker/5000px/sorting-algorithm-benchmarker.jpg",
+                    "data_title": "Sorting Algorithm Benchmarker — Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/sorting-algorithm-benchmarker",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "24",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/word-cloud-generator/400px/word-cloud-generator.jpg",
+                "alt": "Word Cloud Generator in Java",
+                "title": "Word Cloud Generator",
+                "subtitle": "Word Cloud Generator<br>Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/word-cloud-generator/5000px/word-cloud-generator.jpg",
+                    "data_title": "Word Cloud Generator — Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Word-Cloud-Generator",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "25",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/network-socket-chat/400px/network-socket-chat.jpg",
+                "alt": "Network Socket Chat Application in Java",
+                "title": "Network Socket Chat Application",
+                "subtitle": "Network Socket Chat Application<br>Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/network-socket-chat/5000px/network-socket-chat.jpg",
+                    "data_title": "Network Socket Chat Application in Java — Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Word-Cloud-Generator",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "26",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/image-filter-system/400px/image-filter-system.jpg",
+                "alt": "Image Filter System in Java",
+                "title": "Image Filter System",
+                "subtitle": "Image Filter System<br>Executable application for Windows/Mac OS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-java-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/image-filter-system/5000px/image-filter-system.jpg",
+                    "data_title": "Image Filter System in Java — Desktop App built in Java using the Eclipse IDE",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Image-Filter-System",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "27",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/personal-portfolio/400px/personal-portfolio.jpg",
+                "alt": "Personal Portfolio Website",
+                "title": "SPA in JS - No Framework<br>Personal Portfolio Website",
+                "subtitle": "HTML5 | CSS3 | JavaScript | jQuery <br>Single Page Application",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-jquery-plain-wordmark colored",
+                    "icon5_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/personal-portfolio/5000px/personal-portfolio.jpg",
+                    "data_title": "Personal Portfolio Website (SPA) — HTML | CSS | JavaScript | jQuery | Bootstrap",
+                    "project_link": "https://michaelogrady.com/",
+                    "github_link": "",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "28",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/smarthub/400px/smarthub.jpg",
+                "alt": "Smarthub - Ecommerce | Vanilla PHP",
+                "title": "Smarthub",
+                "subtitle": "PHP | MySQL | JS | jQuery | Bootstrap<br>Online E-Commerce System ",
+                "devicon_icons": {
+                    "icon1_class": "devicon-php-plain-wordmark colored",
+                    "icon2_class": "devicon-mysql-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-jquery-plain-wordmark colored",
+                    "icon5_class": "devicon-bootstrap-plain-wordmark colored",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/smarthub/5000px/smarthub.jpg",
+                    "data_title": "Smarthub - Ecommerce | Vanilla PHP",
+                    "project_link": "https://smart-hub-ecommerce.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/smarthub-heroku",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "29",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/recipe-app-api/400px/recipe-app.png",
+                "alt": "Backend RestAPI in Python - Django",
+                "title": "Recipe App Backend RestAPI",
+                "subtitle": "Backend RestAPI in Python - Django",
+                "devicon_icons": {
+                    "icon1_class": "devicon-python-plain-wordmark colored",
+                    "icon2_class": "devicon-django-plain-wordmark colored",
+                    "icon3_class": "devicon-postgresql-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/recipe-app-api/5000px/recipe-app.png",
+                    "data_title": "Recipe App Backend RestAPI in Python - Django",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Recipe-App-API",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "30",
+                "category": "mobile",
+                "img": "../assets/images/portfolio/projects/mobile/expense-tracker/400px/expense-tracker.jpg",
+                "alt": "Expense Tracker Mobile App - React Native",
+                "title": "Expense Tracker Mobile App",
+                "subtitle": "React Native<br> with Firebase backend",
+                "devicon_icons": {
+                    "icon1_class": "devicon-googlecloud-plain",
+                    "icon2_class": "devicon-react-original-wordmark colored",
+                    "icon3_class": "devicon-mongodb-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/mobile/expense-tracker/5000px/expense-tracker.jpg",
+                    "data_title": "Expense Tracker Mobile App - React Native with Firebase backend",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Expense-Tracker-App-React-Native",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "31",
+                "category": "mobile",
+                "img": "../assets/images/portfolio/projects/mobile/meals-app/400px/meals-app.jpg",
+                "alt": "Meals Application",
+                "title": "Meals Application",
+                "subtitle": "React native<br>Static JSON database backend",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/mobile/meals-app/5000px/meals-app.jpg",
+                    "data_title": "Meals Application - React Native with Static JSON database backend",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Meals-App-React-Native",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "32",
+                "category": "mobile",
+                "img": "../assets/images/portfolio/projects/mobile/guess-number-app/400px/guess-number-app.jpg",
+                "alt": "Guess Number Game",
+                "title": "Guess Number Game",
+                "subtitle": "React native<br>",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/mobile/guess-number-app/5000px/guess-number-app.jpg",
+                    "data_title": "Guess Number Game - React Native",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/GuessNumber_React-Native",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "33",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/feedback-ui/400px/feedback-ui.jpg",
+                "alt": "Feedback UI",
+                "title": "Feedback Application UI",
+                "subtitle": "React 18 <br> with JSON backend",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/feedback-ui/5000px/feedback-ui.jpg",
+                    "data_title": "",
+                    "project_link": "https://whimsical-banoffee-3ab732.netlify.app/",
+                    "github_link": "https://github.com/mogrady-professional/React-Feedback-UI",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "34",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/full-stack-feedback-app/400px/full-stack-feedback-app.jpg",
+                "alt": "Full-Stack Feedback Application in React",
+                "title": "Full-Stack Feedback Application",
+                "subtitle": "React 18 <br> with JSON backend",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/full-stack-feedback-app/5000px/full-stack-feedback-app.jpg",
+                    "data_title": "Full-Stack Feedback Application in React with JSON Server",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/React-Feedback-App",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "35",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/react-17-meal-order-frontend-ui/400px/react-17-meal-order-frontend-ui.jpg",
+                "alt": "Frontend UI for Meal Order Application",
+                "title": "Frontend UI for Meal Order Application",
+                "subtitle": "React 18",
+                "devicon_icons": {
+                    "icon1_class": "devicon-react-original-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/react-17-meal-order-frontend-ui/5000px/react-17-meal-order-frontend-ui.jpg",
+                    "data_title": "Frontend UI for Meal Order Application in React 18",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/react-17-meal-order-frontend-ui",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "36",
+                "category": "wordpress-cms",
+                "img": "../assets/images/portfolio/projects/backend/company-cms-laravel-8/400px/company-cms-laravel-8.jpg",
+                "alt": "Company Website CMS in Laravel 8",
+                "title": "Company Website CMS",
+                "subtitle": "Laravel 8 | PHP | MySQL<br> Content Management System",
+                "devicon_icons": {
+                    "icon1_class": "devicon-laravel-plain-wordmark colored",
+                    "icon2_class": "devicon-mysql-plain-wordmark colored",
+                    "icon3_class": "devicon-php-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/company-cms-laravel-8/5000px/company-cms-laravel-8.jpg",
+                    "data_title": "Company Website CMS in Laravel 8",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Company-CMS-Laravel-8",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "37",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/nodejs-to-do-app/400px/nodejs-to-do-app.jpg",
+                "alt": "NodeJS To Do App",
+                "title": "NodeJS To Do App",
+                "subtitle": "NodeJs | Express | MongoDB",
+                "devicon_icons": {
+                    "icon1_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon2_class": "devicon-mongodb-plain-wordmark colored",
+                    "icon3_class": "devicon-express-original-wordmark",
+                    "icon4_class": "devicon-javascript-plain colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/nodejs-to-do-app/5000px/nodejs-to-do-app.jpg",
+                    "data_title": "NodeJS To Do App",
+                    "project_link": "https://the-great-irish-bucket-list.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/The-great-Irish-bucket-list",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "38",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/maths-tables-shell-script/400px/maths-tables-shell-script.jpg",
+                "alt": "Shell Scripting",
+                "title": "Maths Tables Shell Script",
+                "subtitle": "Bash | VIM<br>Shell Scripting",
+                "devicon_icons": {
+                    "icon1_class": "devicon-bash-plain",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/maths-tables-shell-script/5000px/maths-tables-shell-script.jpg",
+                    "data_title": "Maths Tables Shell Script",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Network-System-Administration-Project",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "39",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/relational-dbms/400px/relational-dbms.jpg",
+                "alt": "Relational DBMS",
+                "title": "Dental Database Management System",
+                "subtitle": "Relational DBMS | MySQL",
+                "devicon_icons": {
+                    "icon1_class": "devicon-mysql-plain-wordmark",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/relational-dbms/5000px/relational-dbms.jpg",
+                    "data_title": "Relational DBMS",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/mulcahy-dental-database",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "40",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/whg-rdbms/400px/whg-rdbms.jpg",
+                "alt": "Gym Database Management System",
+                "title": "Gym Database Management System",
+                "subtitle": "Relational DBMS | Microsoft Access",
+                "devicon_icons": {
+                    "icon1_class": "devicon-mysql-plain-wordmark",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": "bx bx-detail"
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/whg-rdbms/5000px/whg-rdbms.jpg",
+                    "data_title": "WHG Gym Database Management System",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/Web-Application-Development",
+                    "local_project_detail_link": "#warehousegym_rdbms"
+                }
+            },
+            {
+                "id": "40",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/movie-info/400px/movie-info.jpg",
+                "alt": "Movie Info Application",
+                "title": "Movie Info Application",
+                "subtitle": "Fetch API & Async Await",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-jquery-plain-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/movie-info/5000px/movie-info.jpg",
+                    "data_title": "Movie Info Application",
+                    "project_link": "https://omdbapi-movie-app.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/MovieInfoApp",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "41",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/jokes-generator/400px/jokes-generator.jpg",
+                "alt": "Jokes Generator",
+                "title": "Jokes Generator",
+                "subtitle": "Fetch API & Async Await",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/jokes-generator/5000px/jokes-generator.jpg",
+                    "data_title": "Jokes Generator Application",
+                    "project_link": "https://mogrady-professional.github.io/Jokes-Generator-Application/",
+                    "github_link": "https://github.com/mogrady-professional/Jokes-Generator-Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "42",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/web-dev-quiz/400px/web-dev-quiz.jpg",
+                "alt": "Web Developer Quiz",
+                "title": "Web Developer Quiz",
+                "subtitle": "Quiz Application with HTML | CSS| JavaScript| jQuery | Bootstrap",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/web-dev-quiz/5000px/web-dev-quiz.jpg",
+                    "data_title": "Web Developer Quiz Application",
+                    "project_link": "https://mogrady-professional.github.io/JavaScript-Projects/index.html",
+                    "github_link": "https://github.com/mogrady-professional/JavaScript-Projects",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "43",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/numbers-api/400px/numbers-api.jpg",
+                "alt": "Numbers API",
+                "title": "Numbers API",
+                "subtitle": "Fetch API & XHR",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/numbers-api/5000px/numbers-api.jpg",
+                    "data_title": "Numbers API Application | Fetch API & XHR",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/numbers-API-Project",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "44",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/fetch-api/400px/fetch-api.jpg",
+                "alt": "JSON REST API",
+                "title": "JSON REST API",
+                "subtitle": "Colection of Projects with JSON REST API & AJAX",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/fetch-api/5000px/fetch-api.jpg",
+                    "data_title": "Colection of Projects with JSON REST API & AJAX",
+                    "project_link": "https://mogrady-professional.github.io/JSON-REST-API-Projects-with-AJAX/",
+                    "github_link": "https://github.com/mogrady-professional/JSON-REST-API-Projects-with-AJAX",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "45",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/php-applications/400px/php-applications.jpg",
+                "alt": "Collection of PHP Applications",
+                "title": "Collection of PHP Applications",
+                "subtitle": "PHP | MySQL |",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain colored",
+                    "icon4_class": "devicon-php-plain-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/php-applications/5000px/php-applications.jpg",
+                    "data_title": "Collection of PHP Applications",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/php-applications",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "46",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/navbar-collection/400px/navbar-collection.jpg",
+                "alt": "Responsive Navbar Collection",
+                "title": "Responsive Navbar Collection",
+                "subtitle": "Colection of Navbars in HTML &amp; CSS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/navbar-collection/5000px/navbar-collection.jpg",
+                    "data_title": "Colection of Navbars in HTML &amp; CSS",
+                    "project_link": "https://mogrady-professional.github.io/navbar-collection/",
+                    "github_link": "https://github.com/mogrady-professional/navbar-collection",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "47",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/footer-collection/400px/footer-collection.jpg",
+                "alt": "Responsive Footer Collection",
+                "title": "Responsive Footer Collection",
+                "subtitle": "Colection of Footers in HTML &amp; CSS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/footer-collection/5000px/footer-collection.jpg",
+                    "data_title": "Colection of Footers in HTML &amp; CSS",
+                    "project_link": "https://mogrady-professional.github.io/footer-collection/",
+                    "github_link": "https://github.com/mogrady-professional/footer-collection",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "48",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/frontend-components/400px/frontend-components.jpg",
+                "alt": "Frontend Components",
+                "title": "Frontend Components",
+                "subtitle": "Colection of Common Website Components",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/frontend-components/5000px/frontend-components.jpg",
+                    "data_title": "Colection of Common Website Components",
+                    "project_link": "https://mogrady-professional.github.io/frontend-components/",
+                    "github_link": "https://github.com/mogrady-professional/frontend-components",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "49",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/javascript-playground/400px/javascript-playground.jpg",
+                "alt": "JavaScript Playground",
+                "title": "JavaScript Playground",
+                "subtitle": "JavaScript Playground",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/javascript-playground/5000px/javascript-playground.jpg",
+                    "data_title": "JavaScript Playground",
+                    "project_link": "https://mogrady-personal.github.io/javascript-playground/",
+                    "github_link": "https://github.com/mogrady-personal/javascript-playground",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "50",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/class-based-booklist-application/400px/class-based-booklist-application.jpg",
+                "alt": "Class based BookList Application",
+                "title": "Class based BookList Application",
+                "subtitle": "JavaScript<br>with objects and local storage",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/class-based-booklist-application/5000px/class-based-booklist-application.jpg",
+                    "data_title": "Class based BookList Application",
+                    "project_link": "https://mogrady-professional.github.io/class-based-booklist-application/",
+                    "github_link": "https://github.com/mogrady-professional/class-based-booklist-application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "51",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/dom-manipulation-in-js/400px/dom-manipulation-in-js.jpg",
+                "alt": "Basic JS DOM Manipulation",
+                "title": "Basic JS DOM Manipulation",
+                "subtitle": "JavaScript<br>with objects and local storage",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/dom-manipulation-in-js/5000px/dom-manipulation-in-js.jpg",
+                    "data_title": "Basic JS DOM Manipulation",
+                    "project_link": "https://mogrady-professional.github.io/dom-manipulation-in-js/",
+                    "github_link": "https://github.com/mogrady-professional/dom-manipulation-in-js",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "52",
+                "category": "desktop",
+                "img": "../assets/images/portfolio/projects/desktop/forest-hike/400px/forest-hike.jpg",
+                "alt": "Forest Hike",
+                "title": "Forest Hike",
+                "subtitle": "Python Game using Ren'Py Visual Novel Engine",
+                "devicon_icons": {
+                    "icon1_class": "devicon-python-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/desktop/forest-hike/5000px/forest-hike.jpg",
+                    "data_title": "Forest Hike Python Game using Ren'Py Visual Novel Engine",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-personal/Forest-Hike",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "53",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/lotto-generator/400px/lotto-generator.jpg",
+                "alt": "Lotto Generator",
+                "title": "Lotto Generator",
+                "subtitle": "JavaScript<br> Random Number Generator",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/lotto-generator/5000px/lotto-generator.jpg",
+                    "data_title": "Lotto Generator — JavaScript Random Number Generator",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/lotto-generator",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "54",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/react-task-tracker/400px/react-task-tracker.jpg",
+                "alt": "Task Tracker Application",
+                "title": "Task Tracker Application",
+                "subtitle": "React<br>with JSON Server Backend",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "devicon-react-original-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/react-task-tracker/5000px/react-task-tracker.jpg",
+                    "data_title": "Task Tracker Application — React with JSON Server Backend",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/React_Task_Tracker_Application",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "55",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/quiz-application/400px/quiz-application.jpg",
+                "alt": "Quiz Application",
+                "title": "React<br>Quiz Application",
+                "subtitle": "React | MaterialUI |<br> with Open Trivia Database",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "devicon-react-original-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/quiz-application/5000px/quiz-application.jpg",
+                    "data_title": " React Quiz Application — with Open Trivia Database",
+                    "project_link": "https://quizmaster-5000.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/React_Quiz_App",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "56",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/javascript-calculator/400px/javascript-calculator.jpg",
+                "alt": "JavaScript Calculator",
+                "title": "JavaScript Calculator",
+                "subtitle": "JavaScript<br>with ES6 Syntax",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/javascript-calculator/5000px/javascript-calculator.jpg",
+                    "data_title": "JavaScript Calculator — with ES6 Syntax",
+                    "project_link": "https://mogrady-professional.github.io/VanillaJavascriptCalculator/",
+                    "github_link": "https://github.com/mogrady-professional/VanillaJavascriptCalculator",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "57",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/python-in-the-browser/400px/python-in-the-browser.jpg",
+                "alt": "Brython — Python in the Browser App",
+                "title": "Python in the Browser",
+                "subtitle": "Python<br> with Brython",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-python-plain-wordmark colored",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/python-in-the-browser/5000px/python-in-the-browser.jpg",
+                    "data_title": "Python in the Browser — with Brython",
+                    "project_link": "https://github.com/mogrady-professional/Python-In-The-Browser-Brython-Project",
+                    "github_link": "https://github.com/mogrady-professional/VanillaJavascriptCalculator",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "58",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/shareposts/400px/shareposts.jpg",
+                "alt": "Custom MVC Framework — SharePosts",
+                "title": "SharePosts",
+                "subtitle": "PHP<br>Custom MVC Framework",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-php-plain colored",
+                    "icon4_class": "devicon-apache-plain",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/shareposts/5000px/shareposts.jpg",
+                    "data_title": "Custom MVC Framework — SharePosts",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/shareposts-localhost",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "59",
+                "category": "full-stack",
+                "img": "../assets/images/portfolio/projects/full-stack/jamstack-portfolio-in-react-17/400px/jamstack-portfolio-in-react-17.png",
+                "alt": "JamStack Portfolio with Sanity",
+                "title": "JamStack Portfolio CMS",
+                "subtitle": "React | Sanity CMS |<br>Full Stack Portfolio CMS",
+                "devicon_icons": {
+                    "icon1_class": "devicon-html5-plain-wordmark colored",
+                    "icon2_class": "devicon-css3-plain-wordmark colored",
+                    "icon3_class": "devicon-javascript-plain-wordmark colored",
+                    "icon4_class": "devicon-react-original-wordmark colored",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/full-stack/jamstack-portfolio-in-react-17/5000px/jamstack-portfolio-in-react-17.png",
+                    "data_title": "JamStack Portfolio with Sanity CMS",
+                    "project_link": "https://jamstack-portfolio-in-react-17.vercel.app/",
+                    "github_link": "https://github.com/mogrady-professional/jamstack-portfolio-in-react-17",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "60",
+                "category": "back-end",
+                "img": "../assets/images/portfolio/projects/backend/node-backend-api-for-support-desk-with-mongo-db/400px/node-backend-api-for-support-desk-with-mongo-db.jpg",
+                "alt": "Node.js Backend API for Support Desk with MongoDB",
+                "title": "Node.js Backend API for Support Desk with MongoDB",
+                "subtitle": "Node<br>Backend API for Support Desk with MongoDB",
+                "devicon_icons": {
+                    "icon1_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/backend/node-backend-api-for-support-desk-with-mongo-db/5000px/node-backend-api-for-support-desk-with-mongo-db.jpg",
+                    "data_title": "",
+                    "project_link": "",
+                    "github_link": "https://github.com/mogrady-professional/node-backend-api-for-support-desk-with-mongo-db",
+                    "local_project_detail_link": ""
+                }
+            },
+            {
+                "id": "61",
+                "category": "front-end",
+                "img": "../assets/images/portfolio/projects/frontend/currency-converter/400px/currency-converter.jpg",
+                "alt": "Currency Converter in React 17",
+                "title": "Currency Converter",
+                "subtitle": "React<br> Currency Converter",
+                "devicon_icons": {
+                    "icon1_class": "devicon-nodejs-plain-wordmark colored",
+                    "icon2_class": "",
+                    "icon3_class": "",
+                    "icon4_class": "",
+                    "icon5_class": "",
+                    "icon6_class": "",
+                    "icon7_class": "",
+                    "icon8_class": "",
+                    "icon9_class": "",
+                    "icon10_class": ""
+                },
+                "portfolio_icons": {
+                    "icon1_view_in_gallery_class": "bx bx-zoom-in",
+                    "icon2_link_to_project_class": "bx bx-link-external",
+                    "icon3_link_to_github_class": "bx bxl-github",
+                    "icon4_link_to_local_project_details": ""
+                },
+                "portfolio_links": {
+                    "image_gallery_link": "../assets/images/portfolio/projects/frontend/currency-converter/5000px/currency-converter.jpg",
+                    "data_title": "Currency Converter in React 17",
+                    "project_link": "https://currency-king.herokuapp.com/",
+                    "github_link": "https://github.com/mogrady-professional/React_Global_Currency_Converter",
+                    "local_project_detail_link": ""
+                }
+            }
+        ]
+    }
+}

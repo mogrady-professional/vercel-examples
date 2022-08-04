@@ -2,31 +2,134 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Vercel + PHP</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.1.4/tailwind.min.css" />
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Michael O'Grady | Full Stack Software Engineer | Remote 🇮🇪</title>
+    <meta name="description" content="" />
+    <!--  META Tags and OG -->
+    <meta property="og:locale" content="en_IE" />
+    <meta property="og:title" content="Michael O'Grady | Full Stack Software Engineer | Remote 🇮🇪 " />
+    <meta name="keywords" content="Web Application Development,Cloud Solutions Development,Web Design,Graphics & Digital Marketing,Desktop & Mobile Software Development,Business Analysis & Strategic Management,Business Intelligence (BI) & Data Analytics,Full-Stack Web Developer,Software Engineer"
+    />
+    <meta property="og:site_name" content="Michael O'Grady - Personal Website" />
+    <meta property="og:url" content="http://michaelogrady.net/index.html" />
+    <meta property="og:image" content="http://www.michaelogrady.net/img/ograph-sharable.png" />
+    <meta property="og:image:secure_url" content="http://michaelogrady.net/index.html" />
+    <meta property="og:image:alt" content="Michael O'Grady | Full Stack Software Engineer | Remote 🇮🇪 " />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:description" content="Web Application Development,Cloud Solutions Development,Web Design, Graphics & Digital Marketing,Desktop & Mobile Software Development,Business Analysis & Strategic Management,Business Intelligence (BI) & Data Analytics,Full-Stack Web Developer,Software Engineer"
+    />
+    <meta property="og:type" content="website" />
+    <meta name="author" content="Michael O'Grady" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image:alt" content="Michael O'Grady | Full Stack Software Engineer | Remote 🇮🇪 " />
+    <!--  META Tags and OG -->
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="./assets/favicon/apple-icon-57x57..png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="./assets/favicon/apple-icon-60x60..png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="./assets/favicon/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="./assets/favicon/apple-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="./assets/favicon/apple-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="./assets/favicon/apple-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="./assets/favicon/apple-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="./assets/favicon/apple-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-icon-180x180.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./assets/favicon/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="./assets/favicon/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="./assets/favicon/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+
+    <!-- Vendor CSS Files -->
+    <link href="./assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="./assets/vendor/icofont/icofont.min.css" rel="stylesheet" />
+    <link href="./assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
+    <!-- <link href="./assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet" /> -->
+    <link href="./assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+    <link href="./assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+    <!-- Main CSS -->
+    <link href="./assets/css/style.css" rel="stylesheet" />
+
+    <!-- Icons -->
+    <!-- <link href="./assets/devicon/devicon.min.css" rel="stylesheet"> -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.14.0/devicon.min.css" integrity="sha512-Fx1qTIVtFTb41Tqu+TxfaaPCcpmkRIbOIKh+4OIwVYAECoW89rz4BnRy95Vu8MYSRgghC3pS9mJ435hzarnZcw==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin=" anonymous" />
+    <link rel="stylesheet" href="./assets/vendor/venobox/venobox.min.css" />
+
+    <!-- Copyright protected — Michael O'Grady  -->
 </head>
 
-<body class="font-mono bg-gray-300 w-screen h-screen flex items-center justify-center">
-    <div>
-        <div class="text-5xl font-bold">
-            Vercel + PHP
-            <a class="inline-block" href="https://vercel.com/new/project?template=https://github.com/juicyfx/vercel-examples/tree/master/php">
-                <img src="https://vercel.com/button" alt="Deploy to Vercel" />
-            </a>
-        </div>
+<body>
+    <button type="button" class="mobile-nav-toggle d-lg-none">
+      <i class="icofont-navigation-menu" id="mobile-nav-icon"></i>
+    </button>
 
-        <p class="text-xl my-10">Use the <strong>deploy</strong> button or follow these steps.</p>
-
-        <ol class="list-decimal my-4 mx-8 text-normal">
-            <li class="py-2">Clone repository <code class="bg-pink-600 rounded rounded-sm text-white p-2">git clone git@github.com:juicyfx/vercel-examples.git</code></li>
-            <li class="py-2">Switch to <code>/php</code> folder and run <code class="underline font-bold">vercel</code></li>
-            <li class="py-2">Open generated <strong>*.vercel.app</strong> domain [<a class="text-pink-800" href="https://php.vercel.app">demo</a>]</li>
-            <li class="py-2">Discover <strong>*.vercel.app/api/</strong> PHP functions [<a class="text-pink-800" href="https://php.vercel.app/api/">demo</a>] </li>
-        </ol>
+    <div class="loader-wrapper" id="loader-wrapper">
+        <span class="loader"></span>
     </div>
+    <!-- ======= Header ======= -->
+    <header id="header" class="header-tops">
+        <div class="container">
+            <h1><a href="index.html">Michael O'Grady</a></h1>
+            <!-- Uncomment to use image logo -->
+            <!-- <a href="index.html"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
+            <h2 class="text-center">
+                <span class="typed" style="line-height: 2.5rem"></span>
+            </h2>
+            <!-- Nav-Menu -->
+            <nav class="nav-menu d-none d-lg-block" id="nav-menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#request_quote">Request Quote</a></li>
+                </ul>
+            </nav>
+            <!-- End Nav-Menu -->
+        </div>
+    </header>
+    <!-- End Header -->
+    <div id="content"></div>
+    <script src="./assets/js/hash-router.js"></script>
+    <!-- Arrow Button -->
+    <div class="arrow-btn">
+        <a><span class="fas fa-angle-up"></span></a>
+    </div>
+    <!-- End Arrow Button -->
+    <!-- Copyright protected — Michael O'Grady   -->
+    <div class="credits text-center" id="credits"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="./assets/vendor/php-email-form/validate.js"></script>
+    <!-- <script src="./assets/vendor/counterup/counterup.min.js"></script> -->
+    <script src="./assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <!-- <script src="./assets/vendor/owl.carousel/owl.carousel.min.js"></script> -->
+    <script src="./assets/vendor/typed-js/typed.min.js"></script>
+    <script src="./assets/vendor/venobox/venobox.min.js"></script>
+    <script src="./assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="./assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="./assets/vendor/waypoints/noframework.waypoints.min.js"></script>
+
+    <!-- Main JS File -->
+    <script src="./assets/js/main.js"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <!-- Intersection Observer -->
+    <!-- <script src="js/intersectionObserver.js"></script> -->
+    <!-- <script src="js/console-jokes.js" defer></script> -->
 </body>
 
 </html>
